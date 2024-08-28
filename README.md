@@ -1,4 +1,4 @@
-# Face-Recognition-using-Transfer-LearningaTransfer Learning for Image Classification with Keras
+Transfer Learning for Image Classification with Keras
 -----------------------------------------------------
 
 This code implements a transfer learning approach for image classification using Keras. Here's a breakdown of what it does:
